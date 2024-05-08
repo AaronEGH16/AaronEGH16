@@ -13,6 +13,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AaronEGH16&theme=merko&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=AaronEGH16&icon=5&color=3)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=AaronEGH16&label=Profile%20Views&color=3&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
